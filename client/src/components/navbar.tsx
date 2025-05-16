@@ -42,9 +42,11 @@ export default function Navbar() {
         <div className="flex items-center mr-12">
           import razorpayXLogo from "@attached_assets/razorpayXLogo.png";
           <img
-            src={razorpayXLogo}
-            alt="RazorpayX Logo"
-            className="h-10 w-auto"
+  src="https://via.placeholder.com/200x60?text=Razorpay+Logo"
+  alt="Razorpay Logo"
+  style={{ height: "60px", objectFit: "contain" }}
+/>
+
           />
         </div>
 
