@@ -41,11 +41,12 @@ export default function Navbar() {
       <nav className="container mx-auto px-4 py-3 flex items-center">
         <div className="flex items-center mr-12">
           import razorpayXLogo from "@attached_assets/razorpayXLogo.png";
-          <img
+  <img
   src="https://via.placeholder.com/200x60?text=Razorpay+Logo"
   alt="Razorpay Logo"
   style={{ height: "60px", objectFit: "contain" }}
 />
+
 
           />
         </div>
