@@ -46,9 +46,6 @@ export default function Navbar() {
   alt="Razorpay Logo"
   style={{ height: "60px", objectFit: "contain" }}
 />
-
-
-          />
         </div>
 
         <div className="hidden md:flex items-center space-x-8">
