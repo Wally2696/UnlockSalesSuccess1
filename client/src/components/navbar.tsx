@@ -40,6 +40,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 bg-white shadow-md">
       <nav className="container mx-auto px-4 py-3 flex items-center">
         <div className="flex items-center mr-12">
+          import razorpayXLogo from "@assets/X-logo.png";
           <img
             src={razorpayXLogo}
             alt="RazorpayX Logo"
