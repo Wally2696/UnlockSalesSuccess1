@@ -3,7 +3,7 @@ import { Link } from "wouter";
 import { Menu, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
-  import logo from "@assets/X-logo.png";
+import logo from "@/attached_assets/X-logo.png";
 
 const navLinks = [
   { href: "#home", label: "Home", active: true },
@@ -40,7 +40,6 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 bg-white shadow-md">
       <nav className="container mx-auto px-4 py-3 flex items-center">
         <div className="flex items-center mr-12">
-          import razorpayXLogo from "@attached_assets/razorpayXLogo.png";
   <img
   src="https://via.placeholder.com/200x60?text=Razorpay+Logo"
   alt="Razorpay Logo"
